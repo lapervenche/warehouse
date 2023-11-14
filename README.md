@@ -15,7 +15,7 @@
 
 5. **Gérer les dépôts:** 📦 Les dépôts Flatpak installées et activées peuvent être supprimées, et de nouveaux dépôts peuvent aussi y être ajoutées.
 
-![Various screenshots of Warehouse's abilities](screenshots.png)
+![Various screenshots of Warehouse's abilities](screenshotsfr.png)
 
 ## ⏬ Installation:
 
