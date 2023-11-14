@@ -2,19 +2,18 @@
 
 ![Image banner in the style of GNOME art showing a box truck, tower crane, and storage garage sat on and next to a road.](readme_banner.svg)
 
-## Warehouse is a versatile toolbox for managing flatpak user data, viewing flatpak app info, and batch managing installed flatpaks.
+## Warehouse est une boîte à outils polyvalente pour gérer les données de l'utilisateur flatpak, visualiser les informations sur les applications flatpak et gérer les flatpaks installés.
 
-## 🚀 Main Features:
+## 🚀 Caractéristiques principales:
 
-1. **Viewing Flatpak Info:** 📋 Warehouse can display all the information provided by the `flatpak list` command in a user-friendly graphical window. Each item includes a button for easy copying.
+1. **Visualisation des infos Flatpak:** 📋 peut afficher toutes les informations fournies par la liste flatpak dans une fenêtre graphique conviviale. Chaque élément comporte un bouton pour être facile à copier là où l'on en a besoin..
 
-2. **Managing User Data:** 🗑️ Flatpaks store user data in a specific system location, often left behind when an app is uninstalled. Warehouse can uninstall an app and delete its data, delete data without uninstalling, or simply show if an app has user data.
+2. **Gestion des données de l'utilisateur:** 🗑️ Flatpaks stockent des données utilisateur dans un emplacement de système spécifique de votre sytème, souvent laissés-pour-vent lorsqu'une application est désinstallée. Warehouse peut désinstaller une application et supprimer ses données, supprimer des données sans désinstaller, ou simplement vous montrer si une application a des données d'utilisateur.
+3. **Actions par lots:** ⚡ Warehouse dispose d'un mode de lot pour des installations rapides, de suppressions de données utilisateur et de copie d'identification d'une application en masse.
 
-3. **Batch Actions:** ⚡ Warehouse features a batch mode for swift uninstallations, user data deletions, and app ID copying in bulk.
+4. **Gestion des données de transfert:** 📁 Warehouse scanne le dossier de données de l'utilisateur pour vérifier la présence d'applications installées associées aux données. Si aucune n'est trouvée, il peut supprimer les données ou tenter d'installer un flatpak correspondant.
 
-4. **Leftover Data Management:** 📁 Warehouse scans the user data folder to check for installed apps associated with the data. If none are found, it can delete the data or attempt to install a matching flatpak.
-
-5. **Manage Remotes:** 📦 Installed and enabled Flatpak remotes can be deleted, and new remotes can be added.
+5. **Gérer les dépôts:** 📦 Les dépôts Flatpak installées et activées peuvent être supprimées, et de nouveaux dépôts peuvent aussi y être ajoutées.
 
 ![Various screenshots of Warehouse's abilities](screenshots.png)
 
@@ -24,7 +23,7 @@ Warehouse is now available on Flathub! Visit your software store and search for 
 
 <a href=https://flathub.org/apps/io.github.flattool.Warehouse><img width='240' alt='Download on Flathub' src='https://dl.flathub.org/assets/badges/flathub-badge-en.png'/></a>
 
-## 🗣️ Translation
+## 🗣️ Traduction
 - Translation is hosted with Weblate on Fyra Labs, [click here](https://weblate.fyralabs.com/projects/flattool/warehouse/) to contribute
 
 <a href="https://weblate.fyralabs.com/engage/flattool/">
