@@ -19,37 +19,37 @@
 
 ## ⏬ Installation:
 
-Warehouse is now available on Flathub! Visit your software store and search for Warehouse, or click this badge.
+Warehouse est maintenant disponible sur Flathub Visitez votre magasin de logiciels et recherchez un entrepôt, ou cliquez sur ce badge.
 
 <a href=https://flathub.org/apps/io.github.flattool.Warehouse><img width='240' alt='Download on Flathub' src='https://dl.flathub.org/assets/badges/flathub-badge-en.png'/></a>
 
 ## 🗣️ Traduction
-- Translation is hosted with Weblate on Fyra Labs, [click here](https://weblate.fyralabs.com/projects/flattool/warehouse/) to contribute
+- La traduction est hébergée avec Weblate on Fyra Labs, [cliquez ici](https://weblate.fyralabs.com/projects/flattool/warehouse/) pour y contribuer
 
 <a href="https://weblate.fyralabs.com/engage/flattool/">
 <img src="https://weblate.fyralabs.com/widget/flattool/warehouse/multi-auto.svg" alt="Translation status" />
 </a>
 
-## 💬 Get in Contact
-- We have a [Discord Server](https://discord.gg/Sq85C42Xkt) and a [Matrix Space](https://matrix.to/#/#warehouse-development:matrix.org) to discuss and send announcements in!
-- You can always open issues, PRs, and use other GitHub features here
+## 💬 Entrer en contact
+- Nous avons un [serveur Discord](https://discord.gg/Sq85C42Xkt) et un [espace Matrix](https://matrix.to/#/#warehouse-development:matrix.org) pour y discuter et y envoyer des annonces!
+- Vous pouvez toujours ouvrir des questions, des RP, et utiliser d'autres fonctionnalités de GitHub ici
 
-## 📜 Code of Conduct
-- The Warehouse project follows the [GNOME Code of Conduct](https://wiki.gnome.org/Foundation/CodeOfConduct). See `CODE_OF_CONDUCT.md` for more information.
+## 📜 Code de Conduite
+- Le projet Warehouse suit le [code de conduite GNOME](https://wiki.gnome.org/Foundation/CodeOfConduct). Voir `CODE_OF_CONDUCT.md` pour plus d'informations..
 
 ## ℹ️ Important Notes:
-- Warehouse assumes flatpak user data is located in the default directory: `~/.var/app`.
-- Warehouse does not aim to replace flatpak; it simply facilitates appropriate flatpak commands for the desired actions.
-- This project is still in its early stages, developed by a newcomer. Your understanding of potential bugs is greatly appreciated.
+- Warehouse  suppose que les données de l'utilisateur flatpak sont situées dans le répertoire par défaut: `~/.var/app`.
+- Warehouse ne vise pas à remplacer flatpak; il facilite simplement les commandes flatpak appropriées pour les actions souhaitées.
+- Ce projet n'en est encore qu'à ses débuts, développé par un nouveau venu. Votre compréhension des bogues potentiels est grandement appréciée.
 
-## 🛠️ Installation from Repo Steps:
+## 🛠️ Installation étapes à partir des référentiels:
 
-1. Visit the [releases](https://github.com/flattool/warehouse/releases) page and download `io.github.flattool.Warehouse.flatpak`.
-2. Install it using your software store or run the following command:
+1. Visitez la page [des versions](https://github.com/flattool/warehouse/releases) et téléchargez `io.github.flattool.Warehouse.flatpak`.
+2. Installez-le à l'aide de votre logiciel ou exécutez la commande suivante : 
    ```shell
    flatpak install /path/to/io.github.flattool.Warehouse.flatpak
    ```
-You're all set! Launch the application by clicking its icon in your app menu or running:
+Lancez l'application en cliquant sur son icône dans votre menu app ou en exécutant votre application:
 ```shell
 flatpak run io.github.flattool.Warehouse
 ```
