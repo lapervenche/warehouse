@@ -1,4 +1,4 @@
-# Warehouse Code de conduite
+# Warehouse Code de conduite du projet
 Le projet Warehouse suit le [Code de conduite GNOME](https://conduct.gnome.org/). En voici un court résumé ci dessous:
 
 Le projet Warehouse se consacre à fournir une expérience positive à tous et n'accepte pas un comportement inapproprié tel que la discrimination et le discours haineux. Nous encourageons tout le monde à garder un ton amical et à être constructif et civil.
